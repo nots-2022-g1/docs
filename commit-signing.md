@@ -4,6 +4,7 @@ Om 100% te kunnen garanderen dat jouw commit ook echt jouw commit is, is het van
 
 Github heeft zelf tutorials gepubliceerd om dit te doen. Dit zijn:
 
+- [Generating a new GPG key](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)
 - [Signing commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits)
 - [Telling Git about your GPG key](https://docs.github.com/en/authentication/managing-commit-signature-verification/telling-git-about-your-signing-key)
 - [Adding a new GPG key to your GitHub account](https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-new-gpg-key-to-your-github-account)
